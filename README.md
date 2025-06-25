@@ -1,6 +1,6 @@
 ### author // authand
 
-> Student exploring reverse engineering, vulnerability research, and binary exploitation.
+> studying reverse engineering, vulnerability research, and binary exploitation.
 
 <br>
 
